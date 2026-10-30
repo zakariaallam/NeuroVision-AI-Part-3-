@@ -1,0 +1,7 @@
+data_yaml = {
+    'path' : "/workspace/NeuroVision-Ai-Part-3/NeuroVision-AI-Part-3-/data",
+    'train' : "Train",
+    'val' : 'Val',
+    
+}
+
